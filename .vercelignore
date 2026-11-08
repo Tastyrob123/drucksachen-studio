@@ -1,0 +1,10 @@
+_qa
+bau.py
+serve.py
+__pycache__
+*.pyc
+.DS_Store
+.env.local
+UEBERGABE.md
+haeuser/gbr/vorlagen/roh
+haeuser/gbr/vorlagen/kandidaten
